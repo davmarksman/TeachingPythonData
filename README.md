@@ -7,4 +7,4 @@ https://repl.it/languages/Python
 
 https://classroom.udacity.com/courses/ud170
 
-#http://cs109.github.io/2015/pages/videos.html
+http://cs109.github.io/2015/pages/videos.html
