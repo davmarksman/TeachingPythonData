@@ -1,32 +1,32 @@
 # Python & Data Science Teaching
 
 
-# For Biz people
-Excecutives training course on data science [link](https://www.coursera.org/specializations/executive-data-science?utm_medium=listingPage)  
-McKinsey Report - [link](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Big%20data%20The%20next%20frontier%20for%20innovation/MGI_big_data_full_report.ashx)  
-Data science for ordinary people : [link](https://www.slideshare.net/JeffreyStricklandPhD/data-science-andanalyticsforordinarypeopleebook)  
+## For Biz people
+Excecutives training course on data science: [link](https://www.coursera.org/specializations/executive-data-science?utm_medium=listingPage)  
+McKinsey Report: [link](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Big%20data%20The%20next%20frontier%20for%20innovation/MGI_big_data_full_report.ashx)  
+Data science for ordinary people: [link](https://www.slideshare.net/JeffreyStricklandPhD/data-science-andanalyticsforordinarypeopleebook)  
 Interviews with Datascientists: [link](https://www.datascienceweekly.org/pdf/DataScienceWeekly-DataScientistInterviews-Vol1-April2014.pdf)  
 
 
 
-# Beginner Courses
+## Beginner Courses
 https://www.udacity.com/course/introduction-to-python--ud1110  
 https://www.learnpython.org/en/  
 
 
-# Data scientist courses
+## Data Scientist Courses
 https://classroom.udacity.com/courses/ud170  
 http://cs109.github.io/2015/pages/videos.html  
 Pathway: https://trello.com/b/rbpEfMld/data-science  
 Pathway II: https://github.com/ujjwalkarn/DataSciencePython  
 
-# Advanced 
+## Advanced 
 Data science tips [link](https://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice)  
 Online REPL [link](https://repl.it/languages/Python)  
 Advanced topics: [link](https://repl.it/talk/learn/Python-Advanced-Concepts-Explanation/7382)
 
   
-# Lesson Plan
+## Lesson Plan
 Each lesson review last lesson  
 Q's from HW/Check  
 Cover lesson  
@@ -34,6 +34,7 @@ Explain HW
   
 -----
 
+  
 # Python 101
 
 ## Lesson 1: Introduction to python
@@ -71,12 +72,12 @@ Objects
 Modules  
 [Tutorial 1](https://www.hackerearth.com/practice/python/object-oriented-programming/classes-and-objects-i/tutorial/)
 [Tutorial 2](https://pythonbasics.org/class/)
-HW Revision: [Sets](https://www.learnpython.org/en/Sets) [Dictionaries](https://www.learnpython.org/en/Dictionaries), [Functions](https://www.learnpython.org/en/Functions)
+HW Revision: [Sets](https://www.learnpython.org/en/Sets), [Dictionaries](https://www.learnpython.org/en/Dictionaries), [Functions](https://www.learnpython.org/en/Functions)  
 HW: [Classes](https://www.learnpython.org/en/Classes_and_Objects)  [Modules](https://www.learnpython.org/en/Modules_and_Packages) Use Pycharm  
 
 
 ## Lesson 5: Other stuff Exception Handling
-Exception Handling
+Exception Handling  
 HW: https://classroom.udacity.com/courses/ud1110  Lesson 6 Scripting
 
 
@@ -89,7 +90,10 @@ HW: https://classroom.udacity.com/courses/ud1110  Lesson 7 Advanced Topics
 
 
 
-## Lesson Review Intro to python. Plus 2 week assignment. Or think should spend next 3 weeks just solving problems to solidify knowledge
+## Review Lesson.
+Review topics covered  
+Q&A  
+Plus 2 week assignment. Or think should spend next 3 weeks just solving problems to solidify knowledge
 HW: Fizz buzz (Revision test)  
 HW: Assignment (own project?)
 
@@ -98,10 +102,13 @@ HW: Assignment (own project?)
 
 # Software development tools
 
-
 ## Lesson 7: Git & source control
+Intro to git. Problem to solve
 
 ## Lesson 8: Unit testing 
+Intro to unit testing & why  
+TDD  
+HW: Problem to solve with tests as
 
 -----
 
