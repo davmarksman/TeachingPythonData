@@ -1,20 +1,11 @@
-# TeachingPythonData
-
-# Resources
-Online REPL https://repl.it/languages/Python
-
-
-
-# Useful tutorials:
-Advanced topics: https://repl.it/talk/learn/Python-Advanced-Concepts-Explanation/7382
-
+# Python & Data Science Teaching
 
 
 # For Biz people
-Excecutives training course on data science https://www.coursera.org/specializations/executive-data-science?utm_medium=listingPage
-McKinsey Report - https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Big%20data%20The%20next%20frontier%20for%20innovation/MGI_big_data_full_report.ashx
-Data science for ordinary people : https://www.slideshare.net/JeffreyStricklandPhD/data-science-andanalyticsforordinarypeopleebook
-Interviews with Datascientists: https://www.datascienceweekly.org/pdf/DataScienceWeekly-DataScientistInterviews-Vol1-April2014.pdf
+Excecutives training course on data science [link](https://www.coursera.org/specializations/executive-data-science?utm_medium=listingPage)
+McKinsey Report - [link](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Big%20data%20The%20next%20frontier%20for%20innovation/MGI_big_data_full_report.ashx)
+Data science for ordinary people : [link](https://www.slideshare.net/JeffreyStricklandPhD/data-science-andanalyticsforordinarypeopleebook)
+Interviews with Datascientists: [link](https://www.datascienceweekly.org/pdf/DataScienceWeekly-DataScientistInterviews-Vol1-April2014.pdf)
 
 
 
@@ -30,14 +21,17 @@ Pathway: https://trello.com/b/rbpEfMld/data-science
 Pathway II: https://github.com/ujjwalkarn/DataSciencePython
 
 # Advanced 
-https://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice
+Data science tips [link](https://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice)
+Online REPL [link](https://repl.it/languages/Python)
+Advanced topics: [link](https://repl.it/talk/learn/Python-Advanced-Concepts-Explanation/7382)
 
 -----
 
 # Lesson Plan
-Each lesson review last lesson.
-Q's from HW/Check
-
+Each lesson review last lesson  
+Q's from HW/Check  
+Cover lesson  
+Explain HW  
 
 
 # Lesson 1: Introduction to python
@@ -48,8 +42,8 @@ How to run python - Interpreter sandbox, command line & in pycharm
 Hello world
 Setting variables
 If and for loops
-Pathway for becoming a data scientist: https://trello-attachments.s3.amazonaws.com/546e1ae89eadee778ae12bf5/1280x5859/eadbecbe3badba6847e0ea1e629e3827/How-to-become-a-data-scientist.jpg
-HW: https://www.learnpython.org/en/Hello%2C_World%21 From begining until & including Loops (8 chpts)
+Pathway for becoming a data scientist [link](https://trello-attachments.s3.amazonaws.com/546e1ae89eadee778ae12bf5/1280x5859/eadbecbe3badba6847e0ea1e629e3827/How-to-become-a-data-scientist.jpg)
+HW: [link](https://www.learnpython.org/en/Hello%2C_World%21) From begining until & including Loops (8 chpts)
 
 # Lesson 2: Grouping things
 Getting help:
