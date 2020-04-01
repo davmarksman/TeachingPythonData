@@ -131,8 +131,11 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 ## Lesson Map reduce
 https://www.learnpython.org/en/Map,_Filter,_Reduce
 
+## Lesson Importing/Writing data from Excel
 
+## Lesson Importing/Writing data to a database
 
+## Lesson Parsing a website
 
 # Other: Dont think necessary
 -Multiple function arguments
