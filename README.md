@@ -137,6 +137,13 @@ https://www.learnpython.org/en/Map,_Filter,_Reduce
 
 ## Lesson Parsing a website
 
+Project: Data sciencing my budget!
+
+1. Parse html to get spending
+2. Categorise the spending
+3. Predict future spend
+4. Insights from the data
+
 # Other: Dont think necessary
 -Multiple function arguments
 -Regular Expressions
