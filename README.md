@@ -32,9 +32,11 @@ Q's from HW/Check
 Cover lesson  
 Explain HW  
   
------
-
+## Requirements
+Text editor: Visual studio code/ notepad ++ / sublime text
+IDE: pycharm
   
+-----
 # Python 101
 
 ## Lesson 1: Introduction to python
@@ -60,11 +62,27 @@ Tuples
   
 HW: https://classroom.udacity.com/courses/ud1110 Lesson 1, 2 & 3 (Why Python, Data Types & Operators, Data Structures. Apx 6 hours)
 
-## Lesson 3: Functions & Recussion
+## Lesson 3: Revision of what we've learned
+
+HW https://classroom.udacity.com/courses/ud1110 Lesson 4
+HW Fizz Buzz -https://en.wikipedia.org/wiki/Fizz_buzz.
+Count from 1 to 100. Outputting for the number "This is X out of 100", Any number divisible by three is replaced by the word fizz and any number divisible by five by the word buzz. Numbers divisible by 3 and 5 become fizz buzz.
+Sample output:
+> This is 1 out of 100
+> This is 2 out of 100
+> Fizz
+> This is 4 out of 100
+> Buzz
+> Fizz
+> This is 7 out of 100
+> ...
+
+
+## Lesson 4: Functions & Recursion
 Functions 
 List comprehension 
 HW: https://www.learnpython.org/en/List_Comprehensions  
-HW: https://classroom.udacity.com/courses/ud1110 Lesson 4 & 5 (Control Flow, Functions). Control flow is revision of lesson 1  
+HW: https://classroom.udacity.com/courses/ud1110 Lesson 5 (Control Flow, Functions). Control flow is revision of lesson 1  
 
 
 ## Lesson 4: Objects
