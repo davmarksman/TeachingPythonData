@@ -73,15 +73,11 @@ Sample output:
 > This is 1 out of 100  
 > This is 2 out of 100  
 > Fizz  
-> This is 4 out of 100
-
-> Buzz
-
-> Fizz
-
-> This is 7 out of 100
-
-> ...
+> This is 4 out of 100  
+> Buzz  
+> Fizz  
+> This is 7 out of 100  
+> ...  
 
 
 ## Lesson 4: Functions & Recursion
