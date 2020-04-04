@@ -66,8 +66,9 @@ HW: https://classroom.udacity.com/courses/ud1110 Lesson 1, 2 & 3 (Why Python, Da
 
 HW https://classroom.udacity.com/courses/ud1110 Lesson 4
 
-HW Fizz Buzz -https://en.wikipedia.org/wiki/Fizz_buzz.
-Count from 1 to 100. Outputting for the number "This is X out of 100", Any number divisible by three is replaced by the word fizz and any number divisible by five by the word buzz. Numbers divisible by 3 and 5 become fizz buzz.
+HW Fizz Buzz -Fun drinking game and teaching tool for division for kids.  
+Count from 1 to 100. For each number output "This is X out of 100"  
+Any number divisible by three is replaced by the word fizz and any number divisible by five by the word buzz. Numbers divisible by 3 and 5 become fizz buzz.
 
 Sample output:
 > This is 1 out of 100  
