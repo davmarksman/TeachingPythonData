@@ -70,12 +70,9 @@ HW Fizz Buzz -https://en.wikipedia.org/wiki/Fizz_buzz.
 Count from 1 to 100. Outputting for the number "This is X out of 100", Any number divisible by three is replaced by the word fizz and any number divisible by five by the word buzz. Numbers divisible by 3 and 5 become fizz buzz.
 
 Sample output:
-> This is 1 out of 100
-
-> This is 2 out of 100
-
-> Fizz
-
+> This is 1 out of 100  
+> This is 2 out of 100  
+> Fizz  
 > This is 4 out of 100
 
 > Buzz
