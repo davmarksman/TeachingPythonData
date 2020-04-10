@@ -115,7 +115,6 @@ HW: https://classroom.udacity.com/courses/ud1110  Lesson 7 Advanced Topics
 Review topics covered  
 Q&A  
 Plus 2 week assignment. Or think should spend next 3 weeks just solving problems to solidify knowledge
-HW: Fizz buzz (Revision test)  
 HW: Assignment (own project?)
 
 ----- 
@@ -149,8 +148,7 @@ https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf
 https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
 
-## Lesson Map reduce
-https://www.learnpython.org/en/Map,_Filter,_Reduce
+## Lesson Matplotlib
 
 ## Lesson Importing/Writing data from Excel
 
@@ -158,7 +156,9 @@ https://www.learnpython.org/en/Map,_Filter,_Reduce
 
 ## Lesson Parsing a website
 
-Project: Data sciencing my budget!
+## Leson Jupyter and IPython.
+
+## Project: Data sciencing my budget!
 
 1. Parse html to get spending
 2. Categorise the spending
@@ -170,4 +170,11 @@ Project: Data sciencing my budget!
 -Regular Expressions
 -Serialisation
 -Partial functions
-Closures
+-Closures
+-Map reduce https://www.learnpython.org/en/Map,_Filter,_Reduce
+
+# Other to cover:
+Mutable vs immuatable.
+Pass by ref/ pass by value and what python does
+PEP8 & clean code in python
+Duck typing
