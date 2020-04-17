@@ -1,5 +1,7 @@
 # Python & Data Science Teaching
 
+New link: https://github.com/changetocoding/PyLoreKelly
+
 
 ## For Biz people
 Excecutives training course on data science: [link](https://www.coursera.org/specializations/executive-data-science?utm_medium=listingPage)  
